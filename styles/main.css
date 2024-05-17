@@ -76,6 +76,7 @@ body {
   line-height: 2.7rem;
   color: var(--card-title-color);
   margin-bottom: 1.5rem;
+  letter-spacing: -0.5;
 }
 
 .card__list {
